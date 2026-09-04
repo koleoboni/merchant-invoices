@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Merchant.Core</RootNamespace>
+    <AssemblyName>Merchant.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
